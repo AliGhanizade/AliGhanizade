@@ -21,9 +21,7 @@ I primarily focus on **Go** for building high-performance APIs and backend servi
 ### Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go Icon" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ Icon" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript Icon" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP Icon" />
+
   
   
 </p>
@@ -42,6 +40,9 @@ I primarily focus on **Go** for building high-performance APIs and backend servi
 I have hands-on experience and familiarity with the following tools and concepts, which I use for specific tasks or ongoing learning:
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ Icon" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript Icon" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP Icon" />
   <img src="https://skillicons.dev/icons?i=nim" height="40" alt="Nim Icon" title="Nim Scripting"/>
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C# Icon" title="C# Scripting"/>
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter Icon" title="flutter Scripting"/>
