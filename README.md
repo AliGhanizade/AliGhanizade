@@ -16,18 +16,18 @@
 
 ## 🛠️ Skills and Expertise
 
-I primarily focus on **Go** for building high-performance APIs and backend services, while also leveraging a variety of other technologies for full-stack development and data management.
+I primarily focus on **Go** for building high-performance APIs and backend services.
 
-### Programming Languages
+### Programming Languages :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go Icon" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go Icon" />
 
   
   
 </p>
 
 
-### Databases
+### Databases :
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL Icon" />
@@ -35,7 +35,7 @@ I primarily focus on **Go** for building high-performance APIs and backend servi
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite Icon" />
 </p>
 
-### Familiar Tools
+### Familiar Tools :
 
 I have hands-on experience and familiarity with the following tools and concepts, which I use for specific tasks or ongoing learning:
 
