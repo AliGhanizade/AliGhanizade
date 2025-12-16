@@ -43,17 +43,13 @@ I have hands-on experience and familiarity with the following tools and concepts
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ Icon" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript Icon" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP Icon" />
-  <img src="https://skillicons.dev/icons?i=nim" height="40" alt="Nim Icon" title="Nim Scripting"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C# Icon" title="C# Scripting"/>
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter Icon" title="flutter Scripting"/>
   
   <br>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github Icon" title="github "/>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git  Icon" title="git"/>
   <br>
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux  Icon" title="Linux"/>
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi  Icon" title="raspberrypi"/>
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash Scripting Icon" title="Bash Scripting"/>
   
 </p>
 
