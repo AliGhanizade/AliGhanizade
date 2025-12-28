@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Ali Ghanizade 👋</h1>
+  <h1>Hi there, I'm Ali Ghanizade </h1>
   
 <p>
   I am a <b>Backend Developer</b> with a <b>strong passion</b> for <b>Server-Side programming</b>, primarily leveraging the <b>Go (Golang)</b> language. 
@@ -14,49 +14,11 @@
   </p>
 </div>
 
-## 🛠️ Skills and Expertise
-
-I primarily focus on **Go** for building high-performance APIs and backend services.
-
-### Programming Languages :
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go Icon" />
-
-  
-  
-</p>
-
-
-### Databases :
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL Icon" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL Icon" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite Icon" />
-</p>
-
-### Familiar Tools :
-
-I have hands-on experience and familiarity with the following tools and concepts, which I use for specific tasks or ongoing learning:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ Icon" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript Icon" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP Icon" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter Icon" title="flutter Scripting"/>
-  
-  <br>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github Icon" title="github "/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux  Icon" title="Linux"/>
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi  Icon" title="raspberrypi"/>
-  
-</p>
+### Programming Languages : Go
 
 
 
-
-## 📈 GitHub Stats & Dashboards
+##  GitHub Stats & Dashboards
 
 Here are some dashboards illustrating my GitHub activity, language usage, and overall contribution profile.
 
