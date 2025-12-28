@@ -23,14 +23,11 @@
 Here are some dashboards illustrating my GitHub activity, language usage, and overall contribution profile.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliGhanizade&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&bg_color=0d1117" alt="AliGhanizade's GitHub Stats" style="margin: 10px;"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliGhanizade&theme=dark&hide_border=true&stroke=00ADD8&ring=00ADD8&background=0d1117&currStreakNum=c9d1d9&fire=00ADD8&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" style="margin: 10px;"/>
-</div>
 
-<br>
 
-<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliGhanizade&layout=compact&langs_count=5&theme=dark&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
